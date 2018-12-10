@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: oauth-authorization-server
+Implementation-Version: 1.0.0-SNAPSHOT
+Built-By: n0r00ij
+Implementation-Vendor-Id: com.baeldung
+Build-Jdk: 1.8.0_191
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/spring-security-oauth/oauth-authorization-server
+Created-By: Maven Integration for Eclipse
+Main-Class: com.baeldung.config.AuthorizationServerApplication
+
